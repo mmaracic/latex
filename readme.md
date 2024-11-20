@@ -6,6 +6,11 @@ https://www.tug.org/texlive/
 ## Learn
 https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 
+## LaTeX vs TeX
+https://tex.stackexchange.com/questions/49/what-is-the-difference-between-tex-and-latex
+
+If we use TeX applications on LaTeX file, all the basic macros will be reporting "Undefined control sequence" error.
+
 ## Editor
 ### Visual Studio Code
 Install plugin LaTeX Workshop by James Yu  
