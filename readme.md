@@ -45,3 +45,7 @@ Via DVI (both links)
 https://tex.stackexchange.com/questions/11866/compile-a-latex-document-into-a-png-image-thats-as-short-as-possible
 
 https://tex.stackexchange.com/questions/48245/how-can-i-get-tex-file-compiled-into-image?noredirect=1&lq=1
+
+### LaTeX to SVG
+https://stackoverflow.com/questions/20308519/convert-dvi-to-svg-with-dvisvgm-issue
+
